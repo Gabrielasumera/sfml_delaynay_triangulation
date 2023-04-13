@@ -3,4 +3,4 @@
 
 simple triangulation
 
-<img src="output">
+<img src="output.png">
